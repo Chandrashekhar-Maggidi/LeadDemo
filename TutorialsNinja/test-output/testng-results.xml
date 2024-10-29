@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-07T15:41:45 IST" name="Default suite" finished-at="2024-10-07T15:41:51 IST" duration-ms="6134">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T15:41:45 IST" name="Default test" finished-at="2024-10-07T15:41:51 IST" duration-ms="6134">
+      <class name="practice.KeyBoardAction">
+        <test-method signature="verify()[pri:0, instance:practice.KeyBoardAction@6bff19ff]" started-at="2024-10-07T15:41:45 IST" name="verify" finished-at="2024-10-07T15:41:51 IST" duration-ms="6032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+      </class> <!-- practice.KeyBoardAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
