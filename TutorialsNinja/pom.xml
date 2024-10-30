@@ -70,11 +70,7 @@
 </dependency>
 
 
-   	<dependency>
-   		<groupId>Opencart121</groupId>
-   		<artifactId>Opencart121</artifactId>
-   		<version>0.0.1-SNAPSHOT</version>
-   	</dependency>
+
    </dependencies>
   
 </project>
